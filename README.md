@@ -6,3 +6,4 @@
 5. To use the main application run python crud_application.py.
 
 Dependencies: pg admin, python, psycopg2
+https://youtu.be/TOK0imM0bKM
